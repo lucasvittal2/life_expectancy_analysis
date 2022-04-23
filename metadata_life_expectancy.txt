@@ -1,0 +1,25 @@
+Descrição das colunas (Lifea Expectance dataset)
+
+Year - Ano de coleta do registro
+Status - status de desenvolvimento do país que originou o registro
+Adult mortality - Taxa de mortalidade entre adultos
+Alcohol - Numero relacionado ao consumo de alcool
+percentage expenditure  - Porcentagem de invesito do gorverno de um país em bens e serviços para população.
+Hepatite B - taxa de imunização contra a hepatite B
+Measles -  taxa de imunização contra o sarampo
+BMI - índice de massa corporal médio da população
+under five death - Número de mortes antes do 5 anos de idade
+Polio - taxa de imunização contra a poliomelite
+Dipheteria - casos de difeteria
+total expenditure - total gasto pelo governo em bens em serviços à população
+HIV/AIDS - porcentagem da população com AIDS
+population - tamanho da população
+thinness - porcentagem da população entre 10 e 19 anos com indice de massa corporal abaixo de 2(muito baixo)
+thinness 5 to 9 -  porcentagem da população entre 5 e 9 anos com indice de massa corporal abaixo de 2(muito baixo)
+income composition of resources - renda média da população
+schooling - o quão produtivo os recursos daquele país são utilizado ( quanto mais próximo de 1 melhor)
+)
+
+
+'Cook Islands','Dominica','Marshall Islands','Monaco','Nauru','Niue','Palau','Saint Kitts and Nevis','San Marino','Tuvalu'
+
